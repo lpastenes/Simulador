@@ -10,7 +10,7 @@ let promedio = 0;
 // Bienvenida
 alert(`Bienvenido al simulador de promedio de notas
 
-Escala de notas del 1 al 7
+Escala de notas del 1 al 10
 
 Para aprobar el ramo se necesita un promedio superior a 7`);
 
