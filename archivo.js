@@ -30,7 +30,7 @@ function validarNumero(num) {
 // Funcion escala de nota (1 al 10) 
 function escalaNota(escala) {
     if (escala < 1 || escala > 10){
-        alert("Escala de notas del 1 al 7");
+        alert("Escala de notas del 1 al 10");
         validar = false;
     }
 }
